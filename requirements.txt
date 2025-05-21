@@ -1,0 +1,8 @@
+crewai
+groq
+streamlit
+reportlab
+python-dotenv
+langchain-groq
+langchain
+langchain-community
